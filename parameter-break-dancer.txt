@@ -1,0 +1,7 @@
+// ******Parameter******
+int forward = true;
+int reverse = true;
+int maxspeed = 50;
+int spinning_time = 10000;
+int pause_time = 3000;
+// ******Parameter******
